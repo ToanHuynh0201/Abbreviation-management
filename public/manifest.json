@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Abbreviation Management",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "32": "icon32.png"
+    },
+    "permissions": ["storage", "scripting"],
+    "host_permissions": ["<all_urls>"]
+}
